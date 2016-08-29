@@ -1,0 +1,43 @@
+<head>
+  <!--Enter your name-->
+  <title>Taylor Bennett</title>
+  <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+  <!--Uncomment the image tags to add an image
+      Try adding your own image using Flickr or Google Images!
+  -->
+  <!--
+  <img src="http://www.allafricasafaris.com/wp-content/uploads/2015/01/safari-in-south-Africa.jpg" />
+  -->
+  <img src="http://www.allafricasafaris.com/wp-content/uploads/2015/01/safari-in-south-Africa.jpg" />
+  <div id="wrapper">
+    <div id="content">
+      <div>
+        <div id="courseNumber" class="nameBar">ENGL 3844</div>
+        <div id="lastUpdate" class="nameBar">Last update: 8/26/2016</div>
+      </div>
+      <div id="intro">
+        <h1>Taylor Bennett</h1>
+        <!--Write some words about yourself in the p tags-->
+        <p>
+My name is Taylor Bennett. I have always dreamt of traveling, and last fall I actually left the country.
+        </p>
+      </div>
+      <div class="projectSection">
+        <!--Write some words about your project in the p tags. Why did you choose this cause/issue/organization? Who is your audience (can have multiple audiences)? What do you want your audience to DO as a result of your work?-->
+        <!--Somewhere in this section, add a link to an external page-->
+        <h2>My Project</h2>
+
+        <p>
+Most people haven't heard of it, but there is an NGO called Mabawa. Mabawa is stationed in a very small town in Rwanda, Africa. So far, they have raised enough money to build schools and water tanks, and implement curriculum that will help the children learn and succeed in life. Last fall, I spent two months creating a curriculum for the children that inhabit Nyamyumba, and then spent the following month actually teaching it. I never imagined going to Africa. It was always a far-off place that I could imagine and fantasize about. But the fact that I actually, physically was there? That's amazing. Always expect the unexpected.
+
+<a href="http://www.mabawa.org/#!who-we-are/c1h27">Want to find out more about Mabawa?</a>
+        </p>
+
+
+      </div>
+    </div>
+  </div>
+</body>
